@@ -1,0 +1,14 @@
+{
+    "sex": {
+        "LongName": "gender",
+        "Description": "generic gender field",
+        "Levels": {
+            "M": "male",
+            "F": "female"
+        }
+    },
+    "age": {
+        "LongName": "age",
+        "Units": "years"
+    }
+}

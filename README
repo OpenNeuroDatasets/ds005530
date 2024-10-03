@@ -1,6 +1,6 @@
-# Depotentiation of emotional reactivity using Targeted Memory reactivation during Rapid-Eye movement sleep
+# Disarming emotional memories using Targeted Memory Reactivation during Rapid Eye Movement sleep
 
-This dataset contains fMRI data from a study investigating the effects of Targeted Memory Reactivation (TMR) during REM sleep on emotional reactivity. EEG and behavioral data will be added at a later date.
+This dataset contains fMRI and EEG data from a study investigating the effects of Targeted Memory Reactivation (TMR) during REM sleep on emotional reactivity. 
 
 ## Study Design
 
@@ -14,7 +14,8 @@ Participants rated the arousal of 48 affective images paired with semantically m
 ## Data Acquisition
 
 - **fMRI**: Acquired using a Siemens Magnetom Prisma 3T scanner with a 32-channel head coil
-- **Heart Rate**: Recorded using pulse oximetry during the fMRI session
+- **Heart Rate**: Recorded using pulse oximetry during the fMRI session3
+- EEG data from the overnight sleep session
 
 ## Dataset Contents
 
@@ -22,10 +23,6 @@ This initial upload contains:
 - T1-weighted structural images
 - Functional MRI data from Session 48-H
 - B0 field maps
-
-Future additions will include:
-- EEG data from the overnight sleep session
-- Behavioral data (arousal ratings) from all sessions
 
 ## Preprocessing
 

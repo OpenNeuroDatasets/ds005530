@@ -1,0 +1,16 @@
+{
+    "SamplingFrequency": 1000,
+    "StartTime": 0,
+    "Columns": [
+        "channel_1",
+        "channel_2"
+    ],
+    "Units": [
+        "mV",
+        "V"
+    ],
+    "ChannelDescriptions": [
+        "TO BE UPDATED: Autonomic measurement, possibly ECG",
+        "TO BE UPDATED: Autonomic measurement, possibly respiratory"
+    ]
+}

@@ -17,5 +17,9 @@
     "stimulus": {
         "LongName": "Stimulus",
         "Description": "Stimulus presented"
+    },
+    "baseline": {
+        "LongName": "Baseline",
+        "Description": "Within Participant Centered Baseline value"
     }
 }

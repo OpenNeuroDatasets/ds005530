@@ -1,5 +1,5 @@
 {
-    "Name": "Disarming emotional memories using Targeted Memory Reactivation during Rapid Eye Movement sleep",
+    "Name": "Depotentiation of emotional reactivity using TMR during REM sleep",
     "BIDSVersion": "1.8.0",
     "DatasetType": "raw",
     "License": "CC0",
@@ -12,7 +12,7 @@
         "Mahmoud E. A. Abdellahi",
         "Penelope A. Lewis"
     ],
-    "Acknowledgements": "We thank Sophie Smith and Caterina Leitner for collaboration at the early and late phases of the study. We also acknowledge Dr Sofia I.R. Pereira for her significant contribution to data collection.",
+    "Acknowledgements": "We thank Sophie Smith and Caterina Leitner for collaboration at the early and late phases of the study. We also acknowledge Sofia I.R. Pereira for her significant contribution to data collection.",
     "HowToAcknowledge": "Please cite the associated publication (citation to be added upon publication).",
     "Funding": [
         "ERC consolidator grant SolutionSleep to Lewis P.A.",
@@ -22,7 +22,7 @@
         "Ethics Committee of the School of Psychology at Cardiff University"
     ],
     "ReferencesAndLinks": [],
-    "DatasetDOI": "doi:10.18112/openneuro.ds005530.v1.0.5",
+    "DatasetDOI": "doi:10.18112/openneuro.ds005530.v1.0.0",
     "SourceDatasets": [],
     "GeneratedBy": [
         {

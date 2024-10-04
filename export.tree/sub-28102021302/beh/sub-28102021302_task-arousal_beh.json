@@ -1,0 +1,25 @@
+{
+    "TaskName": "arousal",
+    "TaskDescription": "Description of your experiment",
+    "Instructions": "Instructions given to participants",
+    "session": {
+        "LongName": "Session",
+        "Description": "Session number"
+    },
+    "condition": {
+        "LongName": "Condition",
+        "Description": "Experimental condition"
+    },
+    "response": {
+        "LongName": "Response",
+        "Description": "Participant's response"
+    },
+    "stimulus": {
+        "LongName": "Stimulus",
+        "Description": "Stimulus presented"
+    },
+    "baseline": {
+        "LongName": "Baseline",
+        "Description": "Within Participant Centered Baseline value"
+    }
+}

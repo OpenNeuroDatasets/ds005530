@@ -7,7 +7,7 @@ This dataset contains fMRI and EEG data from a study investigating the effects o
 Participants rated the arousal of 48 affective images paired with semantically matching sounds. Heart rate deceleration was used as a measure of their autonomic arousal. Half of these sounds were cued during REM in the subsequent overnight sleep cycle. Participants rated the images in an MRI scanner with pulse oximetry 48 hours after encoding, and they completed an online follow up two weeks later.
 
 ### Sessions
-1. Baseline: Initial arousal ratings as well as autonomic arousal and overnight sleep with TMR
+1. Baseline: Initial arousal ratings as well as overnight sleep with TMR
 2. Session 48-H: fMRI scanning, pulse oximetry and arousal ratings (48 hours after baseline)
 3. Session 2-Wk: Online follow-up (2 weeks after baseline)
 

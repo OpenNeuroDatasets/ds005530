@@ -1,7 +1,7 @@
 {
     "sex": {
-        "LongName": "gender",
-        "Description": "generic gender field",
+        "LongName": "biological sex",
+        "Description": "biological sex as reported by participants",
         "Levels": {
             "M": "male",
             "F": "female"
